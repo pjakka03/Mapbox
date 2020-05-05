@@ -1,0 +1,92 @@
+[
+   {
+      "Member Name": "NYC 4",
+      "Member Address": "405 Lexington Ave",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": 10174,
+      "Latitude": 40.751915,
+      "Longitude": -73.97553
+   },
+   {
+      "Member Name": "NYC 1",
+      "Member Address": "1 E 161 St",
+      "City": "Bronx",
+      "State": "NY",
+      "ZIP": 10451,
+      "Latitude": 40.828804,
+      "Longitude": -73.92742
+   },
+   {
+      "Member Name": "NYC 3",
+      "Member Address": "651 W 168th St",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": 10032,
+      "Latitude": 40.841916,
+      "Longitude": -73.941422
+   },
+   {
+      "Member Name": "NYC 2",
+      "Member Address": "178 Broadway",
+      "City": "Brooklyn",
+      "State": "NY",
+      "ZIP": 11211,
+      "Latitude": 40.709905,
+      "Longitude": -73.962648
+   },
+   {
+      "Member Name": "NYC 5",
+      "Member Address": "75 Christopher St",
+      "City": "New York",
+      "State": "NY",
+      "ZIP": 10014,
+      "Latitude": 40.73365,
+      "Longitude": -74.003158
+   },
+   {
+      "Member Name": "Albany 1",
+      "Member Address": "10 Arthur Terrace ",
+      "City": "Slingerlands",
+      "State": "NY",
+      "ZIP": 12159,
+      "Latitude": 42.627838,
+      "Longitude": -73.863534
+   },
+   {
+      "Member Name": "Albany 2",
+      "Member Address": "54 Edgewood Ave",
+      "City": "Albany",
+      "State": "NY",
+      "ZIP": 12203,
+      "Latitude": 42.673578,
+      "Longitude": -73.799302
+   },
+   {
+      "Member Name": "Buffalo 1",
+      "Member Address": "1 Bills Dr",
+      "City": "Orchard Park",
+      "State": "NY",
+      "ZIP": 14127,
+      "Latitude": 42.773749,
+      "Longitude": -78.791504
+   },
+   {
+      "Member Name": "Albany 3",
+      "Member Address": "3 Walker Ave",
+      "City": "Renesslaer",
+      "State": "NY",
+      "ZIP": 12133,
+      "Latitude": 42.926121,
+      "Longitude": -73.346409
+   },
+   {
+      "Member Name": "Buffalo 2",
+      "Member Address": "1047 Main St",
+      "City": "Buffalo",
+      "State": "NY",
+      "ZIP": 14209,
+      "Latitude": 42.902305,
+      "Longitude": -78.868688
+   }
+]
