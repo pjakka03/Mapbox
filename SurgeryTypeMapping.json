@@ -1,0 +1,4492 @@
+[
+  {
+    Provider_Name: "Advanced Endoscopy Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Advanced Endoscopy Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Advanced Endoscopy Center, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Advanced Endoscopy Center, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Advanced Endoscopy Center, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "AGCNY East, LLC dba Endoscopy Center of Central Ne",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "AGCNY East, LLC dba Endoscopy Center of Central Ne",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "AGCNY East, LLC dba Endoscopy Center of Central Ne",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Albany Medical Center Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Albany Medical Center Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Albany Medical Center Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Albany Medical Center Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Albany Medical Center Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Albany Medical Center Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Albany Medical Center Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Albany Medical Center Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Albany Memorial Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Albany Memorial Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Albany Memorial Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Albany Memorial Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Albany Memorial Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Albany Memorial Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Albany Memorial Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Albany Memorial Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "All City Family Health Care Ambulatory Surgery",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "All City Family Health Care Ambulatory Surgery",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "All City Family Health Care Ambulatory Surgery",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "All City Family Health Care Ambulatory Surgery",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "All City Family Health Care Ambulatory Surgery",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Auburn Memorial Hospital dba Finger Lakes Center for Living",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Auburn Memorial Hospital dba Finger Lakes Center for Living",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Auburn Memorial Hospital dba Finger Lakes Center for Living",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Auburn Memorial Hospital dba Finger Lakes Center for Living",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Auburn Memorial Hospital dba Finger Lakes Center for Living",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Auburn Memorial Hospital dba Finger Lakes Center for Living",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Auburn Memorial Hospital dba Finger Lakes Center for Living",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Auburn Memorial Hospital dba Finger Lakes Center for Living",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Bertrand Chaffee Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Bertrand Chaffee Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Bertrand Chaffee Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Bertrand Chaffee Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Bertrand Chaffee Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Bertrand Chaffee Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Bertrand Chaffee Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Bertrand Chaffee Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Beth Israel Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Beth Israel Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Beth Israel Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Beth Israel Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Beth Israel Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Beth Israel Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Beth Israel Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Beth Israel Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Bon Secours Community Hospital dba St Josephs Place",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Bon Secours Community Hospital dba St Josephs Place",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Bon Secours Community Hospital dba St Josephs Place",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Bon Secours Community Hospital dba St Josephs Place",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Bon Secours Community Hospital dba St Josephs Place",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Bon Secours Community Hospital dba St Josephs Place",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Bon Secours Community Hospital dba St Josephs Place",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Bon Secours Community Hospital dba St Josephs Place",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Bronx Lebanon Hospital Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Bronx Lebanon Hospital Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Bronx Lebanon Hospital Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Bronx Lebanon Hospital Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Bronx Lebanon Hospital Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Bronx Lebanon Hospital Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Bronx Lebanon Hospital Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Bronx Lebanon Hospital Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Brookdale Hospital Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Brookdale Hospital Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Brookdale Hospital Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Brookdale Hospital Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Brookdale Hospital Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Brookdale Hospital Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Brookdale Hospital Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Brookdale Hospital Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Brooklyn SC Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Brooklyn SC Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Brooklyn SC Center, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Brooklyn SC Center, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Brooklyn SC Center, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Brookplaza Ambulatory Surgical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Brookplaza Ambulatory Surgical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Brookplaza Ambulatory Surgical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Brookplaza Ambulatory Surgical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Brookplaza Ambulatory Surgical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Central Queens Day Surgical Center, Inc.",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Central Queens Day Surgical Center, Inc.",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Central Queens Day Surgical Center, Inc.",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Central Queens Day Surgical Center, Inc.",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Crouse Irving Memorial Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Crouse Irving Memorial Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Crouse Irving Memorial Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Crouse Irving Memorial Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Crouse Irving Memorial Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Crouse Irving Memorial Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Crouse Irving Memorial Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Crouse Irving Memorial Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Crystal Run Ambulatory Surgery Center of Middletow",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Crystal Run Ambulatory Surgery Center of Middletow",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Crystal Run Ambulatory Surgery Center of Middletow",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Digestive Disease Center of CNY, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Digestive Disease Center of CNY, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Digestive Disease Center of CNY, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Digestive Disease Center of CNY, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Digestive Disease Center of CNY, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Digestive Diseases Diagnostic & Treatment Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Digestive Diseases Diagnostic & Treatment Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Digestive Diseases Diagnostic & Treatment Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Digestive Diseases Diagnostic & Treatment Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Digestive Diseases Diagnostic & Treatment Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Dutchess Ambulatory Surgical Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Dutchess Ambulatory Surgical Center, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Dutchess Ambulatory Surgical Center, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Dutchess Ambulatory Surgical Center, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "East Side Endoscopy, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "East Side Endoscopy, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "East Side Endoscopy, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "East Side Endoscopy, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Eastern Orange Ambulatory Surgery Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Eastern Orange Ambulatory Surgery Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Eastern Orange Ambulatory Surgery Center, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Eastern Orange Ambulatory Surgery Center, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Eastern Orange Ambulatory Surgery Center, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Ellis Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Ellis Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Ellis Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Ellis Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Ellis Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Ellis Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Ellis Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Ellis Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Endoscopic Diagnostic and Treatment Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Endoscopic Diagnostic and Treatment Center, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Endoscopic Diagnostic and Treatment Center, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Endoscopic Diagnostic and Treatment Center, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Endoscopic Diagnostic and Treatment Center, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Long Island, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Long Island, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Long Island, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Long Island, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Niagara, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Niagara, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Niagara, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Western New York, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Western New York, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Western New York, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Western New York, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Endoscopy Center of Western New York, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "EPC, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "EPC, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "EPC, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "EPC, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "EPC, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "EPC, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Episcopal Health Services Inc. dba St. Johns Episc",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Episcopal Health Services Inc. dba St. Johns Episc",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Episcopal Health Services Inc. dba St. Johns Episc",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Episcopal Health Services Inc. dba St. Johns Episc",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Episcopal Health Services Inc. dba St. Johns Episc",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Episcopal Health Services Inc. dba St. Johns Episc",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Episcopal Health Services Inc. dba St. Johns Episc",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Episcopal Health Services Inc. dba St. Johns Episc",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Erie County Medical Center Corporation",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Erie County Medical Center Corporation",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Erie County Medical Center Corporation",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Erie County Medical Center Corporation",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Erie County Medical Center Corporation",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Erie County Medical Center Corporation",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Erie County Medical Center Corporation",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Erie County Medical Center Corporation",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Faxton- St Luke's Healthcare",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Faxton- St Luke's Healthcare",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Faxton- St Luke's Healthcare",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Faxton- St Luke's Healthcare",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Faxton- St Luke's Healthcare",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Faxton- St Luke's Healthcare",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Faxton- St Luke's Healthcare",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Faxton- St Luke's Healthcare",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Flushing Endoscopy Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Flushing Endoscopy Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Flushing Endoscopy Center, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Flushing Endoscopy Center, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Flushing Endoscopy Center, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Flushing Endoscopy Center, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Flushing Hospital Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Flushing Hospital Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Flushing Hospital Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Flushing Hospital Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Flushing Hospital Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Flushing Hospital Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Flushing Hospital Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Flushing Hospital Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Forest Hills Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Forest Hills Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Forest Hills Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Forest Hills Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Forest Hills Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Forest Hills Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Forest Hills Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Forest Hills Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Franklin Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Franklin Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Franklin Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Franklin Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Franklin Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Franklin Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Franklin Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Franklin Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Gastro Operating Company LLC DBA Meadowbrook",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Gastro Operating Company LLC DBA Meadowbrook",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Gastroenterology Care, Inc.",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Gastroenterology Care, Inc.",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Gastroenterology Care, Inc.",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Gastroenterology Care, Inc.",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Gastroenterology Care, Inc.",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Glen Cove Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Glen Cove Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Glen Cove Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Glen Cove Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Glen Cove Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Glen Cove Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Glen Cove Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Glen Cove Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Good Samaritan Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Good Samaritan Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Good Samaritan Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Good Samaritan Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Good Samaritan Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Good Samaritan Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Good Samaritan Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Good Samaritan Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "GPDDC, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "GPDDC, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "GPDDC, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "GPDDC, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "GPDDC, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Great South Bay Endoscopy Center LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Great South Bay Endoscopy Center LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Great South Bay Endoscopy Center LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Great South Bay Endoscopy Center LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Great South Bay Endoscopy Center LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Great South Bay Endoscopy Center LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Great South Bay Endoscopy Center LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Greater New York Endoscopy Surgical Center PLLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Greater New York Endoscopy Surgical Center PLLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Greater New York Endoscopy Surgical Center PLLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Greater New York Endoscopy Surgical Center PLLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Greater New York Endoscopy Surgical Center PLLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Hudson Valley Center for Digestive Health, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Hudson Valley Center for Digestive Health, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Hudson Valley Center for Digestive Health, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Hudson Valley Center for Digestive Health, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Hudson Valley Endoscopy Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Hudson Valley Endoscopy Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Hudson Valley Endoscopy Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Huntington Hospital Dolan Family Health Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Huntington Hospital Dolan Family Health Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Huntington Hospital Dolan Family Health Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Huntington Hospital Dolan Family Health Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Huntington Hospital Dolan Family Health Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Huntington Hospital Dolan Family Health Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Huntington Hospital Dolan Family Health Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Huntington Hospital Dolan Family Health Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Interfaith Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Interfaith Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Interfaith Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Interfaith Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Interfaith Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Interfaith Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Interfaith Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Interfaith Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Island Digestive Health Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Island Digestive Health Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Island Digestive Health Center, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Island Digestive Health Center, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Island Digestive Health Center, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Island Endoscopy Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Island Endoscopy Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Island Endoscopy Center, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Island Endoscopy Center, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Island Endoscopy Center, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Island Endoscopy Center, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Island Endoscopy Center, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Jamaica Hospital Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Jamaica Hospital Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Jamaica Hospital Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Jamaica Hospital Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Jamaica Hospital Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Jamaica Hospital Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Jamaica Hospital Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Jamaica Hospital Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Kaleida Health",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Kaleida Health",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Kaleida Health",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Kaleida Health",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Kaleida Health",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Kaleida Health",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Kaleida Health",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Kaleida Health",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Kenmore Mercy Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Kenmore Mercy Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Kenmore Mercy Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Kenmore Mercy Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Kenmore Mercy Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Kenmore Mercy Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Kenmore Mercy Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Kenmore Mercy Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Kingsbrook Jewish Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Kingsbrook Jewish Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Kingsbrook Jewish Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Kingsbrook Jewish Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Kingsbrook Jewish Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Kingsbrook Jewish Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Kingsbrook Jewish Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Kingsbrook Jewish Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Kips Bay Endoscopy Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Kips Bay Endoscopy Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Kips Bay Endoscopy Center, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Kips Bay Endoscopy Center, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Kips Bay Endoscopy Center, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Lawrence Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Lawrence Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Lawrence Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Lawrence Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Lawrence Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Lawrence Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Lawrence Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Lawrence Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Lenox Hill Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Lenox Hill Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Lenox Hill Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Lenox Hill Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Lenox Hill Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Lenox Hill Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Lenox Hill Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Lenox Hill Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "LIJ Medical Center Home Health Agency",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "LIJ Medical Center Home Health Agency",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "LIJ Medical Center Home Health Agency",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "LIJ Medical Center Home Health Agency",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "LIJ Medical Center Home Health Agency",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "LIJ Medical Center Home Health Agency",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "LIJ Medical Center Home Health Agency",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "LIJ Medical Center Home Health Agency",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Little Falls Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Little Falls Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Little Falls Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Little Falls Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Little Falls Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Little Falls Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Little Falls Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Little Falls Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Lockport Memorial Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Lockport Memorial Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Lockport Memorial Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Lockport Memorial Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Lockport Memorial Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Lockport Memorial Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Lockport Memorial Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Lockport Memorial Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Lutheran Medical Center and Affiliates",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Lutheran Medical Center and Affiliates",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Lutheran Medical Center and Affiliates",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Lutheran Medical Center and Affiliates",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Lutheran Medical Center and Affiliates",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Lutheran Medical Center and Affiliates",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Lutheran Medical Center and Affiliates",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Lutheran Medical Center and Affiliates",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Maimonides Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Maimonides Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Maimonides Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Maimonides Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Maimonides Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Maimonides Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Maimonides Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Maimonides Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Manhattan Endoscopy Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Manhattan Endoscopy Center, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Manhattan Endoscopy Center, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Manhattan Endoscopy Center, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Mercy Hospital of Buffalo",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Mercy Hospital of Buffalo",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Mercy Hospital of Buffalo",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Mercy Hospital of Buffalo",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Mercy Hospital of Buffalo",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Mercy Hospital of Buffalo",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Mercy Hospital of Buffalo",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Mercy Hospital of Buffalo",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Mercy Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Mercy Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Mercy Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Mercy Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Mercy Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Mercy Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Mercy Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Mercy Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Mohawk Valley EC LLC dba Mohawk Valley Endoscopy C",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Mohawk Valley EC LLC dba Mohawk Valley Endoscopy C",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Mohawk Valley EC LLC dba Mohawk Valley Endoscopy C",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Mohawk Valley EC LLC dba Mohawk Valley Endoscopy C",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Montefiore Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Montefiore Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Montefiore Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Montefiore Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Montefiore Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Montefiore Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Montefiore Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Montefiore Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Montefiore Mount Vernon Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Montefiore Mount Vernon Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Montefiore Mount Vernon Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Montefiore Mount Vernon Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Montefiore Mount Vernon Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Montefiore Mount Vernon Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Montefiore Mount Vernon Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Montefiore Mount Vernon Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Montefiore New Rochelle Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Montefiore New Rochelle Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Montefiore New Rochelle Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Montefiore New Rochelle Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Montefiore New Rochelle Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Montefiore New Rochelle Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Montefiore New Rochelle Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Montefiore New Rochelle Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Mount Sinai Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Mount Sinai Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Mount Sinai Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Mount Sinai Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Mount Sinai Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Mount Sinai Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Mount Sinai Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Mount Sinai Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Mount St. Mary's Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Mount St. Mary's Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Mount St. Mary's Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Mount St. Mary's Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Mount St. Mary's Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Mount St. Mary's Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Mount St. Mary's Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Mount St. Mary's Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Nassau Health Care Corporation",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Nassau Health Care Corporation",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Nassau Health Care Corporation",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Nassau Health Care Corporation",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Nassau Health Care Corporation",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Nassau Health Care Corporation",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Nassau Health Care Corporation",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Nassau Health Care Corporation",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "New Island Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "New Island Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "New Island Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "New Island Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "New Island Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "New Island Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "New Island Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "New Island Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "New York City Health & Hospitals Corporation",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "New York City Health & Hospitals Corporation",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "New York City Health & Hospitals Corporation",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "New York City Health & Hospitals Corporation",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "New York City Health & Hospitals Corporation",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "New York City Health & Hospitals Corporation",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "New York City Health & Hospitals Corporation",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "New York City Health & Hospitals Corporation",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "New York Community Hospital of Brooklyn, Inc.",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "New York Community Hospital of Brooklyn, Inc.",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "New York Community Hospital of Brooklyn, Inc.",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "New York Community Hospital of Brooklyn, Inc.",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "New York Community Hospital of Brooklyn, Inc.",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "New York Community Hospital of Brooklyn, Inc.",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "New York Community Hospital of Brooklyn, Inc.",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "New York Community Hospital of Brooklyn, Inc.",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "New York Endoscopy Center, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "New York Endoscopy Center, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "New York GI Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "New York GI Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "New York GI Center, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "New York GI Center, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "New York GI Center, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "New York GI Center, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "New York Hospital Medical Center of Queens",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "New York Hospital Medical Center of Queens",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "New York Hospital Medical Center of Queens",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "New York Hospital Medical Center of Queens",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "New York Hospital Medical Center of Queens",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "New York Hospital Medical Center of Queens",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "New York Hospital Medical Center of Queens",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "New York Hospital Medical Center of Queens",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "New York Methodist Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "New York Methodist Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "New York Methodist Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "New York Methodist Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "New York Methodist Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "New York Methodist Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "New York Methodist Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "New York Methodist Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "New York Presbyterian Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "New York Presbyterian Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "New York Presbyterian Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "New York Presbyterian Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "New York Presbyterian Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "New York Presbyterian Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "New York Presbyterian Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "New York Presbyterian Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Niagara Falls Memorial Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Niagara Falls Memorial Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Niagara Falls Memorial Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Niagara Falls Memorial Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Niagara Falls Memorial Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Niagara Falls Memorial Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Niagara Falls Memorial Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Niagara Falls Memorial Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "North Shore Long Island Jewish Health System Inc",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "North Shore Long Island Jewish Health System Inc",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "North Shore Long Island Jewish Health System Inc",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "North Shore Long Island Jewish Health System Inc",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "North Shore Long Island Jewish Health System Inc",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "North Shore Long Island Jewish Health System Inc",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "North Shore Long Island Jewish Health System Inc",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "North Shore Long Island Jewish Health System Inc",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Northern Dutchess Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Northern Dutchess Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Northern Dutchess Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Northern Dutchess Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Northern Dutchess Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Northern Dutchess Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Northern Dutchess Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Northern Dutchess Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Northern Westchester Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Northern Westchester Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Northern Westchester Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Northern Westchester Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Northern Westchester Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Northern Westchester Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Northern Westchester Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Northern Westchester Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Nyack Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Nyack Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Nyack Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Nyack Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Nyack Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Nyack Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Nyack Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Nyack Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "NYU  Hospitals Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "NYU  Hospitals Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "NYU  Hospitals Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "NYU  Hospitals Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "NYU  Hospitals Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "NYU  Hospitals Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "NYU  Hospitals Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "NYU  Hospitals Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Orange Regional Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Orange Regional Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Orange Regional Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Orange Regional Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Orange Regional Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Orange Regional Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Orange Regional Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Orange Regional Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Phelps Memorial Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Phelps Memorial Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Phelps Memorial Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Phelps Memorial Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Phelps Memorial Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Phelps Memorial Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Phelps Memorial Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Phelps Memorial Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Pinnacle Healthcare Inc dbd Hudson Valley Hospital Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Pinnacle Healthcare Inc dbd Hudson Valley Hospital Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Pinnacle Healthcare Inc dbd Hudson Valley Hospital Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Pinnacle Healthcare Inc dbd Hudson Valley Hospital Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Pinnacle Healthcare Inc dbd Hudson Valley Hospital Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Pinnacle Healthcare Inc dbd Hudson Valley Hospital Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Pinnacle Healthcare Inc dbd Hudson Valley Hospital Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Pinnacle Healthcare Inc dbd Hudson Valley Hospital Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Plainview Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Plainview Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Plainview Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Plainview Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Plainview Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Plainview Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Plainview Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Plainview Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Putnam GI, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Putnam GI, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Putnam Hospital Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Putnam Hospital Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Putnam Hospital Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Putnam Hospital Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Putnam Hospital Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Putnam Hospital Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Putnam Hospital Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Putnam Hospital Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Queens Boulevard ASC, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Queens Boulevard ASC, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Queens Boulevard ASC, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Queens Boulevard ASC, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Queens Boulevard ASC, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Queens Endoscopy ASC, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Queens Endoscopy ASC, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Queens Endoscopy ASC, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Queens Endoscopy ASC, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Richmond University Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Richmond University Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Richmond University Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Richmond University Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Richmond University Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Richmond University Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Richmond University Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Richmond University Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Rome Memorial Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Rome Memorial Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Rome Memorial Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Rome Memorial Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Rome Memorial Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Rome Memorial Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Rome Memorial Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Rome Memorial Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Roswell Park Cancer Institute Corporation",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Roswell Park Cancer Institute Corporation",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Roswell Park Cancer Institute Corporation",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Roswell Park Cancer Institute Corporation",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Roswell Park Cancer Institute Corporation",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Roswell Park Cancer Institute Corporation",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Roswell Park Cancer Institute Corporation",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Roswell Park Cancer Institute Corporation",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Samaritan Hospital of Troy New York dba Capital Region Health Connections",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Samaritan Hospital of Troy New York dba Capital Region Health Connections",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Samaritan Hospital of Troy New York dba Capital Region Health Connections",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Samaritan Hospital of Troy New York dba Capital Region Health Connections",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Samaritan Hospital of Troy New York dba Capital Region Health Connections",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Samaritan Hospital of Troy New York dba Capital Region Health Connections",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Samaritan Hospital of Troy New York dba Capital Region Health Connections",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Samaritan Hospital of Troy New York dba Capital Region Health Connections",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Saratoga Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Saratoga Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Saratoga Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Saratoga Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Saratoga Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Saratoga Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Saratoga Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Saratoga Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Saratoga Schenectady Endoscopy Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Saratoga Schenectady Endoscopy Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Saratoga Schenectady Endoscopy Center, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Saratoga Schenectady Endoscopy Center, LLC",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Saratoga Schenectady Endoscopy Center, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Seton Health System (St. Mary's Hospital)",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Seton Health System (St. Mary's Hospital)",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Seton Health System (St. Mary's Hospital)",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Seton Health System (St. Mary's Hospital)",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Seton Health System (St. Mary's Hospital)",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Seton Health System (St. Mary's Hospital)",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Seton Health System (St. Mary's Hospital)",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Seton Health System (St. Mary's Hospital)",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Sister's of Charity Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Sister's of Charity Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Sister's of Charity Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Sister's of Charity Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Sister's of Charity Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Sister's of Charity Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Sister's of Charity Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Sister's of Charity Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "South Nassau Communities Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "South Nassau Communities Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "South Nassau Communities Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "South Nassau Communities Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "South Nassau Communities Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "South Nassau Communities Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "South Nassau Communities Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "South Nassau Communities Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Southside Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Southside Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Southside Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Southside Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Southside Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Southside Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Southside Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Southside Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St Anthony Community Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St Anthony Community Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St Anthony Community Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St Anthony Community Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St Anthony Community Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St Anthony Community Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St Anthony Community Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St Anthony Community Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St Barnabas Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St Barnabas Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St Barnabas Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St Barnabas Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St Barnabas Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St Barnabas Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St Barnabas Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St Barnabas Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St Elizabeth Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St Elizabeth Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St Elizabeth Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St Elizabeth Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St Elizabeth Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St Elizabeth Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St Elizabeth Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St Elizabeth Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St John's Hospital- Riverside Health Care System, Inc.",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St John's Hospital- Riverside Health Care System, Inc.",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St John's Hospital- Riverside Health Care System, Inc.",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St John's Hospital- Riverside Health Care System, Inc.",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St John's Hospital- Riverside Health Care System, Inc.",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St John's Hospital- Riverside Health Care System, Inc.",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St John's Hospital- Riverside Health Care System, Inc.",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St John's Hospital- Riverside Health Care System, Inc.",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St Josephs Hospital and Health Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St Josephs Hospital and Health Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St Josephs Hospital and Health Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St Josephs Hospital and Health Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St Josephs Hospital and Health Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St Josephs Hospital and Health Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St Josephs Hospital and Health Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St Josephs Hospital and Health Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St Luke's Roosevelt Hospital DBA Continuum Health Home Network (CHHN)",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St Luke's Roosevelt Hospital DBA Continuum Health Home Network (CHHN)",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St Luke's Roosevelt Hospital DBA Continuum Health Home Network (CHHN)",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St Luke's Roosevelt Hospital DBA Continuum Health Home Network (CHHN)",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St Luke's Roosevelt Hospital DBA Continuum Health Home Network (CHHN)",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St Luke's Roosevelt Hospital DBA Continuum Health Home Network (CHHN)",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St Luke's Roosevelt Hospital DBA Continuum Health Home Network (CHHN)",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St Luke's Roosevelt Hospital DBA Continuum Health Home Network (CHHN)",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St Mary's Hospital at Amsterdam",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St Mary's Hospital at Amsterdam",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St Mary's Hospital at Amsterdam",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St Mary's Hospital at Amsterdam",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St Mary's Hospital at Amsterdam",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St Mary's Hospital at Amsterdam",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St Mary's Hospital at Amsterdam",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St Mary's Hospital at Amsterdam",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St Peters Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St Peters Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St Peters Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St Peters Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St Peters Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St Peters Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St Peters Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St Peters Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St. Catherine of Siena Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St. Catherine of Siena Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St. Catherine of Siena Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St. Catherine of Siena Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St. Catherine of Siena Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St. Catherine of Siena Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St. Catherine of Siena Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St. Catherine of Siena Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St. Charles Hospital & Rehabilitation Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St. Charles Hospital & Rehabilitation Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St. Charles Hospital & Rehabilitation Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St. Charles Hospital & Rehabilitation Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St. Charles Hospital & Rehabilitation Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St. Charles Hospital & Rehabilitation Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St. Charles Hospital & Rehabilitation Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St. Charles Hospital & Rehabilitation Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St. Francis Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St. Francis Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St. Francis Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St. Francis Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St. Francis Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St. Francis Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St. Francis Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St. Francis Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St. Joseph's Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St. Joseph's Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St. Joseph's Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St. Joseph's Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St. Joseph's Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St. Joseph's Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St. Joseph's Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St. Joseph's Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St. Luke's Cornwall Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "St. Luke's Cornwall Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St. Luke's Cornwall Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "St. Luke's Cornwall Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "St. Luke's Cornwall Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "St. Luke's Cornwall Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St. Luke's Cornwall Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St. Luke's Cornwall Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "St. Peter's Ambulatory Surgery Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "St. Peter's Ambulatory Surgery Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "St. Peter's Ambulatory Surgery Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "St. Peter's Ambulatory Surgery Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Staten Island University Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Staten Island University Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Staten Island University Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Staten Island University Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Staten Island University Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Staten Island University Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Staten Island University Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Staten Island University Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Sterling Surgical Center, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Sterling Surgical Center, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Sterling Surgical Center, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Sterling Surgical Center, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Sterling Surgical Center, LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Suny Downstate on behalf of State University Health Science Center of Brooklyn",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Suny Downstate on behalf of State University Health Science Center of Brooklyn",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Suny Downstate on behalf of State University Health Science Center of Brooklyn",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Suny Downstate on behalf of State University Health Science Center of Brooklyn",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Suny Downstate on behalf of State University Health Science Center of Brooklyn",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Suny Downstate on behalf of State University Health Science Center of Brooklyn",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Suny Downstate on behalf of State University Health Science Center of Brooklyn",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Suny Downstate on behalf of State University Health Science Center of Brooklyn",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "SUNY HSC University Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "SUNY HSC University Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "SUNY HSC University Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "SUNY HSC University Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "SUNY HSC University Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "SUNY HSC University Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "SUNY HSC University Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "SUNY HSC University Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Syracuse Endoscopy Associates, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Syracuse Endoscopy Associates, LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Syracuse Endoscopy Associates, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Syracuse Endoscopy Associates, LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "The Brooklyn Hospital Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "The Brooklyn Hospital Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "The Brooklyn Hospital Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "The Brooklyn Hospital Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "The Brooklyn Hospital Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "The Brooklyn Hospital Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "The Brooklyn Hospital Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "The Brooklyn Hospital Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Uptown Healthcare Management, Inc.",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Uptown Healthcare Management, Inc.",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Uptown Healthcare Management, Inc.",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Uptown Healthcare Management, Inc.",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Vassar Brothers Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Vassar Brothers Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Vassar Brothers Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Vassar Brothers Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Vassar Brothers Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Vassar Brothers Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Vassar Brothers Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Vassar Brothers Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "West ASC LLC dba Camillus Surgery Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "West ASC LLC dba Camillus Surgery Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "West ASC LLC dba Camillus Surgery Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "West ASC LLC dba Camillus Surgery Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "West Side GI, LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "West Side GI, LLC",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "West Side GI, LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "West Side GI, LLC",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Westchestcher Health Care Corporation d/b/a Westchester County Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Westchestcher Health Care Corporation d/b/a Westchester County Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Westchestcher Health Care Corporation d/b/a Westchester County Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Westchestcher Health Care Corporation d/b/a Westchester County Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Westchestcher Health Care Corporation d/b/a Westchester County Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Westchestcher Health Care Corporation d/b/a Westchester County Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Westchestcher Health Care Corporation d/b/a Westchester County Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Westchestcher Health Care Corporation d/b/a Westchester County Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Westchester Ellenville Hospital Inc dba Ellenville Regional Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Westchester Ellenville Hospital Inc dba Ellenville Regional Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Westchester Ellenville Hospital Inc dba Ellenville Regional Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Westchester Ellenville Hospital Inc dba Ellenville Regional Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Westchester Ellenville Hospital Inc dba Ellenville Regional Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Westchester Ellenville Hospital Inc dba Ellenville Regional Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Westchester Ellenville Hospital Inc dba Ellenville Regional Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Westchester Ellenville Hospital Inc dba Ellenville Regional Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "White Plains Hospital Medical Center DBA White Plains Hospital Physician Associates",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "White Plains Hospital Medical Center DBA White Plains Hospital Physician Associates",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "White Plains Hospital Medical Center DBA White Plains Hospital Physician Associates",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "White Plains Hospital Medical Center DBA White Plains Hospital Physician Associates",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "White Plains Hospital Medical Center DBA White Plains Hospital Physician Associates",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "White Plains Hospital Medical Center DBA White Plains Hospital Physician Associates",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "White Plains Hospital Medical Center DBA White Plains Hospital Physician Associates",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "White Plains Hospital Medical Center DBA White Plains Hospital Physician Associates",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Winthrop University Hospital",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Winthrop University Hospital",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Winthrop University Hospital",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Winthrop University Hospital",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Winthrop University Hospital",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Winthrop University Hospital",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Winthrop University Hospital",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Winthrop University Hospital",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "WNY Center For Ambulatory Surgery",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "WNY Center For Ambulatory Surgery",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Wyckoff Heights Medical Center",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Wyckoff Heights Medical Center",
+    Procedure_Category_Type: "Digestive System",
+    Proc_Cat_code: "DS"
+  },
+  {
+    Provider_Name: "Wyckoff Heights Medical Center",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Wyckoff Heights Medical Center",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Wyckoff Heights Medical Center",
+    Procedure_Category_Type: "Musculoskeletal System",
+    Proc_Cat_code: "MS"
+  },
+  {
+    Provider_Name: "Wyckoff Heights Medical Center",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Wyckoff Heights Medical Center",
+    Procedure_Category_Type: "Respiratory, Cardiovascular, Hemic, Lymphatic System",
+    Proc_Cat_code: "RCHL"
+  },
+  {
+    Provider_Name: "Wyckoff Heights Medical Center",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  },
+  {
+    Provider_Name: "Yorkville Endoscopy LLC",
+    Procedure_Category_Type: "Anesthesia Services",
+    Proc_Cat_code: "AS"
+  },
+  {
+    Provider_Name: "Yorkville Endoscopy LLC",
+    Procedure_Category_Type: "Endocrine, Nervous, Eye and Ocular, Auditory",
+    Proc_Cat_code: "ENEOA"
+  },
+  {
+    Provider_Name: "Yorkville Endoscopy LLC",
+    Procedure_Category_Type: "Integumenary System",
+    Proc_Cat_code: "IS"
+  },
+  {
+    Provider_Name: "Yorkville Endoscopy LLC",
+    Procedure_Category_Type: "Other",
+    Proc_Cat_code: "OT"
+  },
+  {
+    Provider_Name: "Yorkville Endoscopy LLC",
+    Procedure_Category_Type: "Urinary, M/G Genital, Maternity Care, and Delivery System",
+    Proc_Cat_code: "UMMD"
+  }
+]
